@@ -15,15 +15,19 @@
 * [Materialize](http://materializecss.com/) - фреймворк в Material Design
 
 ## Скрипты и библиотеки
+
 ### Слайдеры и карусели
 * [OwlSlider](https://owlcarousel2.github.io/OwlCarousel2/) - слайдер на jQuery
 * [Swiper](http://idangero.us/swiper) - слайдер на читом JS
+
 ### Модалки
 * [FancyBox](http://fancyapps.com/fancybox/) - модалки, в основном для галереи
 * [VenoBox](http://lab.veno.it/venobox/) - модалки с удобным iframe подключением
 * [ArcticModal](http://arcticlab.ru/arcticmodal/) - максимально простые модалки
+
 ### Визуализация скролла
 * [jScrollPane](http://jscrollpane.kelvinluck.com/) - наиболее работоспособный вариант
+
 ### SVG
 * [Fabric JS](http://fabricjs.com/) - библиотека для конструкторов
 * [SVG.js](http://svgjs.com/) - удобная библиотека для работы с SVG в JS
@@ -43,10 +47,12 @@
 * [...на три буквы](http://natribu.org/)
 
 ## Обучение
+
 ### Курсы
 * [EpicSkills](http://epixx.ru/) - очные курсы по вебу в СПб
 * [GeekBrains](https://geekbrains.ru/) - много различных курсов по программирвоанию (очно в МСК и онлайн)
 * [HTML академия](https://htmlacademy.ru/courses)
+
 ### Учебные материалы
 * [Современный учебник JavaScript](https://learn.javascript.ru/)
 * [NodeSchool](https://nodeschool.io/ru/) - интерактивное обучение Node.js с возможностью очного, бесплатного посещения уроков в некоторых городах (СПб и МСК есть)
