@@ -17,11 +17,15 @@
 ## Скрипты и библиотеки
 * [Список плагинов на ванильном JS](http://www.vanillalist.com/)
 
+###
+* [Underscore.js](http://underscorejs.org) - расширение JS
+
 ### Слайдеры и карусели
 * [OwlSlider](https://owlcarousel2.github.io/OwlCarousel2/) - слайдер на jQuery
 * [Swiper](http://idangero.us/swiper) - слайдер на читом JS
 
 ### Модалки
+* [Vanilla Modal](https://github.com/thephuse/vanilla-modal) - модалки на чистом JS
 * [FancyBox](http://fancyapps.com/fancybox/) - модалки, в основном для галереи
 * [VenoBox](http://lab.veno.it/venobox/) - модалки с удобным iframe подключением
 * [ArcticModal](http://arcticlab.ru/arcticmodal/) - максимально простые модалки
