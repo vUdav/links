@@ -15,6 +15,7 @@
 * [Materialize](http://materializecss.com/) - фреймворк в Material Design
 
 ## Скрипты и библиотеки
+* [Список плагинов на ванильном JS](http://www.vanillalist.com/)
 
 ### Слайдеры и карусели
 * [OwlSlider](https://owlcarousel2.github.io/OwlCarousel2/) - слайдер на jQuery
