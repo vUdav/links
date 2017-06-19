@@ -16,9 +16,9 @@
 
 ## Скрипты и библиотеки
 * [Список плагинов на ванильном JS](http://www.vanillalist.com/)
-
-###
+* [fullPage.js](https://github.com/alvarotrigo/fullPage.js/) - Скролл страницы по секциям
 * [Underscore.js](http://underscorejs.org) - расширение JS
+* [alphatab](https://www.alphatab.net/) - GuitarPro ноты для веба
 
 ### Слайдеры и карусели
 * [OwlSlider](https://owlcarousel2.github.io/OwlCarousel2/) - слайдер на jQuery
