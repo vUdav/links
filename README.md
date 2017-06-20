@@ -2,6 +2,7 @@
 
 ## Подкасты
 * [Веб-стандарты](https://soundcloud.com/web-standards) - подкаст Вадима Макеева про веб-технлогии
+* [Фронтенд Юность](https://soundcloud.com/frontend_u)
 
 ## CMS
 * [SiteCake](http://sitecake.com/) - для лендингов
@@ -16,26 +17,21 @@
 
 ## Скрипты и библиотеки
 * [Список плагинов на ванильном JS](http://www.vanillalist.com/)
-* [fullPage.js](https://github.com/alvarotrigo/fullPage.js/) - Скролл страницы по секциям
-* [Underscore.js](http://underscorejs.org) - расширение JS
+* [fullPage.js](https://github.com/alvarotrigo/fullPage.js/) - скролл страницы по секциям
 * [alphatab](https://www.alphatab.net/) - GuitarPro ноты для веба
-
-### Слайдеры и карусели
+* [axios](https://github.com/mzabriskie/axios) - удобный ajax
 * [OwlSlider](https://owlcarousel2.github.io/OwlCarousel2/) - слайдер на jQuery
-* [Swiper](http://idangero.us/swiper) - слайдер на читом JS
-
-### Модалки
-* [Vanilla Modal](https://github.com/thephuse/vanilla-modal) - модалки на чистом JS
-* [FancyBox](http://fancyapps.com/fancybox/) - модалки, в основном для галереи
-* [VenoBox](http://lab.veno.it/venobox/) - модалки с удобным iframe подключением
+* [Swiper](http://idangero.us/swiper) - слайдер на чиcтом JS
 * [ArcticModal](http://arcticlab.ru/arcticmodal/) - максимально простые модалки
-
-### Визуализация скролла
-* [jScrollPane](http://jscrollpane.kelvinluck.com/) - наиболее работоспособный вариант
-
-### SVG
+* [jScrollPane](http://jscrollpane.kelvinluck.com/) - визуализация скролла
 * [Fabric JS](http://fabricjs.com/) - библиотека для конструкторов
 * [SVG.js](http://svgjs.com/) - удобная библиотека для работы с SVG в JS
+
+### React
+* [Creat React App](https://github.com/facebookincubator/create-react-app) - быстрый старт с React
+* [React Router](https://github.com/reacttraining/react-router) - роутинги
+#### React Frameworks
+* [React Toolbox](http://react-toolbox.com/) - компоненты в материальном дизайне
 
 ## Сервисы
 * [FontSquirrel](https://www.fontsquirrel.com/tools/webfont-generator) - генерация шрифтов для веба
@@ -47,7 +43,6 @@
 * [Поддержка CSS свойств в email-клиентах](https://www.campaignmonitor.com/css/)
 
 ## Куда посылать...
-* [...дизайнеров](http://i-love-psd.ru/)
 * [...клиента который не умеет чистить кэш](http://clearyourcache.info/)
 * [...на три буквы](http://natribu.org/)
 
@@ -56,11 +51,14 @@
 ### Курсы
 * [EpicSkills](http://epixx.ru/) - очные курсы по вебу в СПб
 * [GeekBrains](https://geekbrains.ru/) - много различных курсов по программирвоанию (очно в МСК и онлайн)
-* [HTML академия](https://htmlacademy.ru/courses)
+* [HTML академия](https://htmlacademy.ru/courses) - онлайн курсы по HTML
+* [LoftSchool](https://loftschool.com/) - онлайн курсы
 
 ### Учебные материалы
 * [Современный учебник JavaScript](https://learn.javascript.ru/)
 * [NodeSchool](https://nodeschool.io/ru/) - интерактивное обучение Node.js с возможностью очного, бесплатного посещения уроков в некоторых городах (СПб и МСК есть)
+* [React для начинающих](https://maxfarseer.gitbooks.io/react-course-ru/content/)
+* [Redux для начинающих](https://maxfarseer.gitbooks.io/redux-course-ru/content/)
 
 ## Фриланс биржи
 * [Upwork](https://www.upwork.com) - крупнейшая западная фриланс биржа
