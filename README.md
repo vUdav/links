@@ -26,6 +26,7 @@
 * [jScrollPane](http://jscrollpane.kelvinluck.com/) - визуализация скролла
 * [Fabric JS](http://fabricjs.com/) - библиотека для конструкторов
 * [SVG.js](http://svgjs.com/) - удобная библиотека для работы с SVG в JS
+* [AOS.js](https://github.com/michalsnik/aos) - анимации при скроллинге
 
 ### React
 * [Creat React App](https://github.com/facebookincubator/create-react-app) - быстрый старт с React
