@@ -27,6 +27,9 @@
 * [Fabric JS](http://fabricjs.com/) - библиотека для конструкторов
 * [SVG.js](http://svgjs.com/) - удобная библиотека для работы с SVG в JS
 * [AOS.js](https://github.com/michalsnik/aos) - анимации при скроллинге
+* [InstantClick](http://instantclick.io/) - Библиотека, полезная для ускорения загрузки вашего сайта с предварительной загрузкой ресурсов при наведении мыши
+* [IziToast](http://izitoast.marcelodolce.com/) — Простые в реализации JS-уведомления
+* [IziModal](http://izimodal.marcelodolce.com/) — Всплывающие окна, реализованные с помощью простого JavaScript
 
 ### React
 * [Creat React App](https://github.com/facebookincubator/create-react-app) - быстрый старт с React
