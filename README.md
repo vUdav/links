@@ -13,7 +13,6 @@
 * [Foundation for Email](http://foundation.zurb.com/emails/email-templates.html) - для верстки писем
 * [Bootstrap 3 (eng)](http://getbootstrap.com/) - бутстрап на английском
 * [Bootstrap 3 (rus)](http://bootstrap-3.ru/) - бутстрап на русском
-* [Materialize](http://materializecss.com/) - фреймворк в Material Design
 
 ## Скрипты и библиотеки
 * [Список плагинов на ванильном JS](http://www.vanillalist.com/)
@@ -30,6 +29,10 @@
 * [InstantClick](http://instantclick.io/) - Библиотека, полезная для ускорения загрузки вашего сайта с предварительной загрузкой ресурсов при наведении мыши
 * [IziToast](http://izitoast.marcelodolce.com/) — Простые в реализации JS-уведомления
 * [IziModal](http://izimodal.marcelodolce.com/) — Всплывающие окна, реализованные с помощью простого JavaScript
+
+## CSS
+* [normalize.css](https://necolas.github.io/normalize.css/) - нормализатор для CSS
+* [Flexbox cheetsheet](http://vudav.github.io/flexbox-cheatsheet/) - шпаргалка по Flexbox
 
 ### React
 * [Creat React App](https://github.com/facebookincubator/create-react-app) - быстрый старт с React
@@ -73,6 +76,4 @@
 * [BitBucket](https://bitbucket.org/) - закрытые проекты
 * [GitLab](https://about.gitlab.com/) - гит на вашем сервере
 * [Git Tips](https://github.com/Imangazaliev/git-tips) - огромная подборка необходимых команд для продуктивной повседневной работы с Git
-
-## Хостинг
-* [TimeWeb](http://timeweb.com/ru/)
+* [Git Flow](https://danielkummer.github.io/git-flow-cheatsheet/index.ru_RU.html) - шпаргалка по Git Flow
