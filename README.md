@@ -51,6 +51,7 @@
 * [GeekBrains](https://geekbrains.ru/) - много различных курсов по программирвоанию (очно в МСК и онлайн)
 * [HTML академия](https://htmlacademy.ru/courses) - онлайн курсы по HTML
 * [LoftSchool](https://loftschool.com/) - онлайн курсы
+* [Udemy](https://www.udemy.com) - онлайн курсы на английском
 
 ### Учебные материалы
 * [Современный учебник JavaScript](https://learn.javascript.ru/)
