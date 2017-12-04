@@ -4,15 +4,8 @@
 * [Веб-стандарты](https://soundcloud.com/web-standards) - подкаст Вадима Макеева про веб-технлогии
 * [Фронтенд Юность](https://soundcloud.com/frontend_u)
 
-## CMS
-* [SiteCake](http://sitecake.com/) - для лендингов
-* [GetSimple](http://get-simple.info/) - для сайтов визиток
-* [WordPress](https://ru.wordpress.org/) - для блогов
-
-## Frameworks
-* [Foundation for Email](http://foundation.zurb.com/emails/email-templates.html) - для верстки писем
-* [Bootstrap 3 (eng)](http://getbootstrap.com/) - бутстрап на английском
-* [Bootstrap 3 (rus)](http://bootstrap-3.ru/) - бутстрап на русском
+## Framework
+* [HEML](https://heml.io/) - язык разметки для верстки писем
 
 ## Скрипты и библиотеки
 * [Список плагинов на ванильном JS](http://www.vanillalist.com/)
@@ -34,11 +27,13 @@
 * [normalize.css](https://necolas.github.io/normalize.css/) - нормализатор для CSS
 * [Flexbox cheetsheet](http://vudav.github.io/flexbox-cheatsheet/) - шпаргалка по Flexbox
 
-### React
-* [Creat React App](https://github.com/facebookincubator/create-react-app) - быстрый старт с React
+## React
+* [Creat React App](https://github.com/facebookincubator/create-react-app) - React бойлерплейт статика
+* [Create Next App](https://github.com/segmentio/create-next-app) - React бойлерплейт SSR
 * [React Router](https://github.com/reacttraining/react-router) - роутинги
-#### React Frameworks
+### React Frameworks
 * [React Toolbox](http://react-toolbox.com/) - компоненты в материальном дизайне
+### 
 
 ## Сервисы
 * [FontSquirrel](https://www.fontsquirrel.com/tools/webfont-generator) - генерация шрифтов для веба
@@ -48,10 +43,6 @@
 ## Поддержка свойств бразуерами
 * [Can I Use](http://caniuse.com/) - проверяем поддержку для браузеров
 * [Поддержка CSS свойств в email-клиентах](https://www.campaignmonitor.com/css/)
-
-## Куда посылать...
-* [...клиента который не умеет чистить кэш](http://clearyourcache.info/)
-* [...на три буквы](http://natribu.org/)
 
 ## Обучение
 
@@ -66,6 +57,8 @@
 * [NodeSchool](https://nodeschool.io/ru/) - интерактивное обучение Node.js с возможностью очного, бесплатного посещения уроков в некоторых городах (СПб и МСК есть)
 * [React для начинающих](https://maxfarseer.gitbooks.io/react-course-ru/content/)
 * [Redux для начинающих](https://maxfarseer.gitbooks.io/redux-course-ru/content/)
+* [Хабр: Руководство по работе с Redux](https://habrahabr.ru/company/mailru/blog/303456/)
+* [Хабр: Полное практическое руководство по Docker](https://habrahabr.ru/post/310460/)
 
 ## Фриланс биржи
 * [Upwork](https://www.upwork.com) - крупнейшая западная фриланс биржа
