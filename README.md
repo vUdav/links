@@ -28,12 +28,11 @@
 * [Flexbox cheetsheet](http://vudav.github.io/flexbox-cheatsheet/) - шпаргалка по Flexbox
 
 ## React
+* [Rekit](https://rekit.js.org/) - IDE для реакта ([статья на русском](https://habrahabr.ru/company/ruvds/blog/349080/))
 * [Creat React App](https://github.com/facebookincubator/create-react-app) - React бойлерплейт статика
 * [Create Next App](https://github.com/segmentio/create-next-app) - React бойлерплейт SSR
-* [React Router](https://github.com/reacttraining/react-router) - роутинги
 ### React Frameworks
 * [React Toolbox](http://react-toolbox.com/) - компоненты в материальном дизайне
-### 
 
 ## Сервисы
 * [FontSquirrel](https://www.fontsquirrel.com/tools/webfont-generator) - генерация шрифтов для веба
