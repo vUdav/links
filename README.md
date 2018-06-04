@@ -38,6 +38,8 @@
 * [FontSquirrel](https://www.fontsquirrel.com/tools/webfont-generator) - генерация шрифтов для веба
 * [RealFaviconGenerator](http://realfavicongenerator.net/) - генератор всевозможных фавиконок
 * [Типограф](http://www.artlebedev.ru/tools/typograf/) - типограф Лебедева
+* [Netlify](https://www.netlify.com/) - автодеплой для фронта
+* [Travic CI](https://travis-ci.org/getting_started)
 
 ## Поддержка свойств бразуерами
 * [Can I Use](http://caniuse.com/) - проверяем поддержку для браузеров
