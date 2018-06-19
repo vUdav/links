@@ -23,6 +23,7 @@
 * [InstantClick](http://instantclick.io/) - Библиотека, полезная для ускорения загрузки вашего сайта с предварительной загрузкой ресурсов при наведении мыши
 * [IziToast](http://izitoast.marcelodolce.com/) — Простые в реализации JS-уведомления
 * [IziModal](http://izimodal.marcelodolce.com/) — Всплывающие окна, реализованные с помощью простого JavaScript
+* [bundlesize](https://github.com/siddharthkp/bundlesize) - контролируем размер бандла
 
 ## CSS
 * [normalize.css](https://necolas.github.io/normalize.css/) - нормализатор для CSS
