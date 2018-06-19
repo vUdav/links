@@ -6,6 +6,7 @@
 
 ## Framework
 * [HEML](https://heml.io/) - язык разметки для верстки писем
+* [HyperApp](https://github.com/hyperapp/hyperapp) - микрофреймворк (1kb) для создания современных приложений по типу React/Vue
 
 ## Скрипты и библиотеки
 * [Список плагинов на ванильном JS](http://www.vanillalist.com/)
