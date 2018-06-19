@@ -40,6 +40,7 @@
 * [Типограф](http://www.artlebedev.ru/tools/typograf/) - типограф Лебедева
 * [Netlify](https://www.netlify.com/) - автодеплой для фронта
 * [Travic CI](https://travis-ci.org/getting_started)
+* [Parcel](https://parceljs.org/) - быстрый сборщик проектов без настройки
 
 ## Поддержка свойств бразуерами
 * [Can I Use](http://caniuse.com/) - проверяем поддержку для браузеров
